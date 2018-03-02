@@ -1,0 +1,16 @@
+{
+  "navLinks": [
+    {
+      "title": "Home",
+      "scrollId": "#home-section"
+    },
+    {
+      "title": "Portraits",
+      "scrollId": "#portraits-section"
+    },
+    {
+      "title": "Scenarios",
+      "scrollId": "#scenarios-section"
+    }
+  ]
+}
