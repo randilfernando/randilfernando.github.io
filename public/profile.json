@@ -1,0 +1,46 @@
+{
+    "name": "Randil Fernando",
+    "headline": "Independent Consultant & Software Architect",
+    "valueStatement": "Designing reliable, scalable systems that grow with the product — not ahead of it.",
+    "email": "randil.fernando@outlook.com",
+    "contact": {
+        "linkedin": "https://www.linkedin.com/in/randil-fernando"
+    },
+    "credibility": [
+        "Consulted for Marketrix.ai, billable.global",
+        "Co-founder experience",
+        "7+ years in backend & distributed systems"
+    ],
+    "services": [
+        {
+            "title": "System architecture & scalability planning",
+            "description": "Designing robust systems that can handle growth without premature optimization."
+        },
+        {
+            "title": "Production readiness & reliability",
+            "description": "Ensuring your systems are observable, resilient, and ready for real-world traffic."
+        },
+        {
+            "title": "Cost-aware cloud design",
+            "description": "Optimizing infrastructure costs while maintaining performance and reliability."
+        },
+        {
+            "title": "Distributed backend systems",
+            "description": "Building scalable microservices and event-driven architectures."
+        },
+        {
+            "title": "Technical advisory for founders",
+            "description": "Providing strategic technical guidance to help you move fast and avoid pitfalls."
+        }
+    ],
+    "selectedWork": [
+        {
+            "name": "Marketrix.ai",
+            "description": "Generative AI platform (architecture & scalability)"
+        },
+        {
+            "name": "billable.global",
+            "description": "SaaS POS (reliability & backend design)"
+        }
+    ]
+}
