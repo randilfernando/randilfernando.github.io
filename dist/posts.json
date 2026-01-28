@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Microservices: Not From Day One",
+        "summary": "Why starting with a monolith is often the best choice for startups, and how to transition to microservices when the time is right.",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*INYu6hLWDm4UbRImtmn_3w.png",
+        "area": "Architecture",
+        "link": "https://medium.com/@randilfernando/microservices-not-from-day-one-8b2623350a22"
+    },
+    {
+        "id": 2,
+        "name": "How I Designed Business Logic to Outlive Infrastructure",
+        "summary": "Strategies for decoupling core business rules from infrastructure concerns to ensure long-term maintainability.",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X0nsxlHqYqPugZBb_WWrLA.png",
+        "area": "System Design",
+        "link": "https://medium.com/@randilfernando/how-i-designed-business-logic-to-outlive-infrastructure-part-1-3feab974f446"
+    },
+    {
+        "id": 3,
+        "name": "Use JWT (JWS) for Authenticate",
+        "summary": "A practical guide on implementing secure authentication using JSON Web Tokens (JWT) and JSON Web Signatures (JWS).",
+        "image": "https://miro.medium.com/v2/resize:fit:862/format:webp/1*i5hvmXESGYTg5p1Bd1d_Dg.png",
+        "area": "Security",
+        "link": "https://medium.com/@randilfernando/use-jwt-jws-for-authenticate-49535f74ac54"
+    }
+]
